@@ -2,13 +2,13 @@
 
 **Purpose:**
 
-This prompt asks the language model to act as an assistant, to help students in creating a study plan for mid-term exams. The model should ask the student about the subject, topics, the time remaining until the exam date, and any specific areas where the student feels less confident or needs extra focus. Using this information, the model will design a tailored study plan that breaks down the topics into smaller, manageable sections. The plan will allocate study time based on the difficulty level and importance of each topic, incorporating a balance of reading, practice problems, and revision sessions. This structured approach ensures that the student is well-prepared and confident going into their exams. The model should then seek feedback, address misconceptions, offer advice on achieving the study goal, and invite the student to return and share their experience.
+This prompt asks the language model to act as an assistant, to help students in creating a study plan for mid-term exams. The model should ask the student about the subject (can give multiple subjects together), topics, the time remaining until the exam date, and any specific areas where the student feels less confident or needs extra focus. Using this information, the model will design a tailored study plan that breaks down the topics into smaller, manageable sections. The plan will allocate study time based on the difficulty level and importance of each topic, incorporating a balance of reading, practice problems, and revision sessions. This structured approach ensures that the student is well-prepared and confident going into their exams. The model should then seek feedback, address misconceptions, offer advice on achieving the study goal, and invite the student to return and share their experience.
 
 
 | **Attribute**        | **Information**       |
 |----------------------|-----------------------|
 | **Author**           | Kumari Radhika       |
-| **Target Models**    | GPT-4,Gemini                |
+| **Target Models**    | GPT-4,Gemini,Bing    |
 | **Test in Gemini**| *https://g.co/gemini/share/43284da6127c*   |
 
 

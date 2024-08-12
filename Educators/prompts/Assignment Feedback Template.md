@@ -11,7 +11,7 @@ After presenting the template, the educator invites the teacher to make further 
 | **Attribute**        | **Information**       |
 |----------------------|-----------------------|
 | **Author**           | Kumari Radhika       |
-| **Target Models**    | GPT-4, Gemini                 |
+| **Target Models**    | GPT-4, Gemini ,Bing   |
 | **Test in Gemini**| *https://g.co/gemini/share/e5bff17781f5*   |
 
 
