@@ -1,4 +1,4 @@
-# Alumni Prompt: Generate ideas for engaging alumni in university events.
+# Alumni Engagemen: Alumni Events Planning Guide
 
 **Purpose:**
 
