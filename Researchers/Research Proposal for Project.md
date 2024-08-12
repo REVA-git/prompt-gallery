@@ -5,11 +5,11 @@
 This prompt is designed to guide researchers in drafting research paper that empower researchers to expand their knowledge and their learning experience. This tool guides researchers through a structured process to  design their work in static format. Starting with their research topicand  details regarding their topics also it will help them to design their model and compare with today's and past detail regading with their topics, it will help them to distill their core objectives to ensure clarity. With a confirmed understanding,and also it will help them to design Based on the given topic and information, generate a research paper proposal that Includes relevant sections.like "e.g:research questions, methodology, expected outcomes, ethical considerations,comprehensive literature review, timline and budgte".Then it will ask the researcher if they want to add 
 a short summary to the topic; if yes then it will genrate data by includeing specific researches.
 
-| **Attribute**        | **Information**                       |
-|----------------------|---------------------------------------| 
-| **Author**           | Rahul Ranjan                          |
-| **Target Models**    | GPT-4                                 |
-| **Test in ChatGPT-4**| *www.chatGPT-4.com, www.gemini.com*   |
+| **Attribute**        | **Information**                                     |
+|----------------------|-----------------------------------------------------| 
+| **Author**           | Rahul Ranjan                                        |
+| **Target Models**    | GPT-4, Bing                                               |
+| **Test in ChatGPT-4**| *www.chatGPT-4.com, www.gemini.com, WWW.Bing.com*   |
 
 
 ## Prompt
@@ -23,10 +23,12 @@ a short summary to the topic; if yes then it will genrate data by includeing spe
 
  ![Link of Research Proposal For Project prompt example in ChatGPT4](https://chatgpt.com/share/a918a6ba-f9ff-47d8-8a1e-338d592a3203)
 
-![Screenshot of Research Proposal For Project prompt example in ChatGPT4 ](Media/RPP/Prompt1.1.png),
-(Media/RPP/Prompt1.2.png),(Media/RPP/Prompt1.3.png),(Media/RPP/Prompt1.4.png),(Media/RPP/Prompt1.5.png),(Media/RPP/Prompt1.6.png)
+ ![Screenshot of Research Proposal For Project prompt example in ChatGPT4 ](Media/C1.png)
  
-![Link of project-based learning prompt example in Gemini](https://g.co/gemini/share/49c4180665c3)
+ 
+ ![Link of project-based learning prompt example in Gemini](https://g.co/gemini/share/49c4180665c3)
 
- ![Screenshot of Research Proposal For Project prompt example in Gemini ](Media/RPP/Prompt1.1.1.png),
-(Media/RPP/Prompt1.1.2.png),(Media/RPP/Prompt1.1.3.png),(Media//RPP/Prompt1.1.4.png),(Media/RPP/Prompt1.1.5.png),(Media/RPP/Prompt1.1.6.png)
+ ![Screenshot of Research Proposal For Project prompt example in Gemini ](Media/G1.png)
+ 
+
+ 
