@@ -28,4 +28,4 @@ Conclude by summarizing the key points and encouraging the educator to monitor t
 
 ## Example interaction:
 
-![Screenshot of peer-Mentoring prompt example](Media/peer-mentoring.png)
+![Screenshot of peer-Mentoring prompt example](/Educators/media/peer-mentoring.png)

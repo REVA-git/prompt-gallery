@@ -39,4 +39,4 @@ Finally, conclude by inviting the faculty member to revisit the best practices a
 
 ## Example interaction:
 
- ![Screenshot of Effective-Mentoring prompt example](Media/effective-mentoring.png)
+ ![Screenshot of Effective-Mentoring prompt example](/Educators/media/effective-mentoring.png)
