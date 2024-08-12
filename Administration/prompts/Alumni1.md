@@ -7,7 +7,7 @@ The prompt aims to simulate a creative director's role in developing innovative 
 | **Attribute**                 | **Information**                                                                               |
 | ----------------------------- | --------------------------------------------------------------------------------------------- |
 | **Author**                    | V.Shree Harhsitha                                                                             |
-| **Target Models**             | Gemini OpenAI GPT-4 Bing                                                                      |
+| **Target Models**             | Gemini OpenAI GPT-4                                                                           |
 | **Test in OpenAI GPT-4 Chat** | [_Link to OpenAI GPT-4 Chat_](https://chatgpt.com/share/cde92bcf-ae55-433b-b765-69d4ea899b5c) |
 
 ## Prompt:

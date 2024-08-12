@@ -7,7 +7,7 @@ The prompt aims to simulate a digital marketing expert's role in crafting a comp
 | **Attribute**                 | **Information**                                                                               |
 | ----------------------------- | --------------------------------------------------------------------------------------------- |
 | **Author**                    | V.Shree Harhsitha                                                                             |
-| **Target Models**             | Gemini OpenAI GPT-4 Bing                                                                      |
+| **Target Models**             | Gemini OpenAI GPT-4                                                                           |
 | **Test in OpenAI GPT-4 Chat** | [_Link to OpenAI GPT-4 Chat_](https://chatgpt.com/share/8399333d-5f12-4f36-a316-aadcb34198f6) |
 
 ## Prompt:
