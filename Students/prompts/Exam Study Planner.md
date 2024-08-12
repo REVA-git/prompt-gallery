@@ -24,4 +24,4 @@ Once you have gathered all this information, you can begin to create the study p
 ```
 ## Example interaction:
 
- ![Screenshot of Study Plan](./Media/study%20plan.png)
+ ![Screenshot of Study Plan](./media/study%20plan.png)
