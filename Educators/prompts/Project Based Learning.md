@@ -31,15 +31,9 @@ This prompt is designed to give tips and guidence for Project-Based Learning (PB
 
  ![Link of project-based learning prompt example in ChatGPT4](https://chatgpt.com/share/ad89a509-6809-42c7-9d0d-177ee58041d8)
 
- ![Screenshot of project-based learning prompt example in ChatGPT4 ](Media/Prompt2.1.png),
- (Media/PBL/Prompt2.2.png),(Media/Prompt2.3.png),(Media/Prompt2.4.png),(Media/Prompt2.5.png),
- (Media/Prompt2.6.png)
- 
+ ![Screenshot of project-based learning prompt example in ChatGPT4 ](Media/C2.png)
+
  ![Link of project-based learning prompt example in Gemini](https://g.co/gemini/share/0085e5ef6092)
 
- ![Screenshot of project-based learning prompt example in Gemini ](Media/Prompt2.2.1.png),
- (Media/Prompt2.2.2.png),(Media/Prompt2.2.3.png),(Media/Prompt2.2.4.png),(Media/Prompt2.2.5.png),
- (Media/Prompt2.2.6.png)
-
- ![Screenshot of project-based learning prompt example in Bing ](Media/C1.png),(Media/C2.png),
- (Media/C3.png),(Media/C4.png),(Media/C5.png)
+ ![Screenshot of project-based learning prompt example in Gemini ](Media/G2.png)
+ 
