@@ -4,11 +4,11 @@
 
 This prompt is designed to give tips and guidence for Project-Based Learning (PBL) is an educational approach that can greatly benefit university students in several ways.PBL allows students to work on real-world problems, bridging the gap between theoretical knowledge and practical application.Through PBL, students develop essential skills such as critical thinking, problem-solving, collaboration, and communication.By working on projects that interest them, students are more engaged and motivated.students can think creatively and come up with innovative solutions to problems.Students are given more control over their learning processL. That includes continuous feedback and opportunities for reflection, allowing students to learn from their experiences and improve their performance.PBL mirrors the collaborative and project-oriented nature of many work environments. Students gain experience working in teams, meeting deadlines, and producing tangible outcomes.
 
-| **Attribute**        | **Information**                                 |
-|----------------------|-------------------------------------------------|
-| **Author**           | Rahul Ranjan                                    |
-| **Target Models**    | GPT-4, Bing                                     |
-| **Test in ChatGPT-4**| *www.chatGPT-4.com,www.Gemini.com,www.Bing.com* |
+| **Attribute**        | **Information**                                                                        |
+|----------------------|----------------------------------------------------------------------------------------|
+| **Author**           | Rahul Ranjan                                                                           |
+| **Target Models**    | GPT-4, Bing                                                                            |
+| **Test in ChatGPT-4**| * https://openai.com/chatgpt/, https://gemini.google.com/, https://www.bing.com/chat * |
 
 
 ## Prompt
