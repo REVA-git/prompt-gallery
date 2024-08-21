@@ -11,8 +11,8 @@ To help educators and program coordinators create peer mentoring programs that e
 |---------------------|-----------------------|
 | **Author** | Thejas M |
 | **Target Models** | GPT-4, Gemini |
-| **Test in ChatGPT**  |  *https://chatgpt.com/c/104410b3-f578-4864-9018-b8d278e1c166* |
-| **Test in Gemini**   | *https://gemini.google.com/app/36b5703ce1a2e6f5?hl=en* |
+| **Test in ChatGPT**  |  *https://chatgpt.com/share/79bf510a-57bc-4c0a-aaa5-40f73e9342dd* |
+| **Test in Gemini**   | *https://g.co/gemini/share/4c97e8e7c955* |
 
 ---
 

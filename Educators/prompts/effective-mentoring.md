@@ -18,8 +18,8 @@ To provide faculty members with practical, tailored strategies for building and 
 |---------------------|-----------------------|
 | **Author** | Thejas M |
 | **Target Models** | GPT-4, Gemini |
-| **Test in ChatGPT**  |  *https://chatgpt.com/c/4cb23036-3aa2-48aa-ba3c-e5d629aac40a* |
-| **Test in Gemini**   | *https://gemini.google.com/app/8da72e385d7b7008?hl=en*  |
+| **Test in ChatGPT**  |  *https://chatgpt.com/share/8a2cbb61-21d4-4d32-9bf0-f5849c549607* |
+| **Test in Gemini**   | *https://g.co/gemini/share/6e9bdd0f8fce*  |
 
 ---
   
