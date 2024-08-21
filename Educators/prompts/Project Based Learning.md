@@ -4,13 +4,13 @@
 
 This prompt is designed to give tips and guidence for Project-Based Learning (PBL) is an educational approach that can greatly benefit university students in several ways.PBL allows students to work on real-world problems, bridging the gap between theoretical knowledge and practical application.Through PBL, students develop essential skills such as critical thinking, problem-solving, collaboration, and communication.By working on projects that interest them, students are more engaged and motivated.students can think creatively and come up with innovative solutions to problems.Students are given more control over their learning processL. That includes continuous feedback and opportunities for reflection, allowing students to learn from their experiences and improve their performance.PBL mirrors the collaborative and project-oriented nature of many work environments. Students gain experience working in teams, meeting deadlines, and producing tangible outcomes.
 
-| **Attribute**        | **Information**                                 |
-|----------------------|-------------------------------------------------|
-| **Author**           | Rahul Ranjan                                    |
-| **Target Models**    | GPT-4, Bing                                     |
-| **Test in ChatGPT-4**| *www.chatGPT-4.com,www.Gemini.com,www.Bing.com* |
-
-
+| **Attribute**        | **Information**                                                   |  
+|----------------------|-------------------------------------------------------------------|
+| **Author**           | Rahul Ranjan                                                      |  
+| **Target Models**    | chatGPT, Gemini                                                   |   
+| **Test in ChatGPT**  |  *https://chatgpt.com/share/ad89a509-6809-42c7-9d0d-177ee58041d8* |
+| **Test in Gemini**   | *https://g.co/gemini/share/0085e5ef6092*                          |
+                                                        
 ## Prompt
 
 ```
@@ -29,11 +29,7 @@ This prompt is designed to give tips and guidence for Project-Based Learning (PB
 
 ## Example interaction:
 
- ![Link of project-based learning prompt example in ChatGPT4](https://chatgpt.com/share/ad89a509-6809-42c7-9d0d-177ee58041d8)
-
  ![Screenshot of project-based learning prompt example in ChatGPT4 ](Media/C2.png)
-
- ![Link of project-based learning prompt example in Gemini](https://g.co/gemini/share/0085e5ef6092)
-
+ 
  ![Screenshot of project-based learning prompt example in Gemini ](Media/G2.png)
  
