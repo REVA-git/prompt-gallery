@@ -10,7 +10,9 @@ To help educators and program coordinators create peer mentoring programs that e
 | **Attribute** | **Information**       |
 |---------------------|-----------------------|
 | **Author** | Thejas M |
-| **Target Models** | GPT-4, Copilot, Gemini |
+| **Target Models** | GPT-4, Gemini |
+| **Test in ChatGPT**  |  *https://chatgpt.com/share/79bf510a-57bc-4c0a-aaa5-40f73e9342dd* |
+| **Test in Gemini**   | *https://g.co/gemini/share/4c97e8e7c955* |
 
 ---
 
@@ -28,4 +30,4 @@ Conclude by summarizing the key points and encouraging the educator to monitor t
 
 ## Example interaction:
 
-![Screenshot of peer-Mentoring prompt example](/Educators/media/peer-mentoring.png)
+![Screenshot of peer-Mentoring prompt example](./Media/peer-mentoring.png)

@@ -17,7 +17,9 @@ To provide faculty members with practical, tailored strategies for building and 
 | **Attribute** | **Information**       |
 |---------------------|-----------------------|
 | **Author** | Thejas M |
-| **Target Models** | GPT-4, Copilot, Gemini |
+| **Target Models** | GPT-4, Gemini |
+| **Test in ChatGPT**  |  *https://chatgpt.com/share/8a2cbb61-21d4-4d32-9bf0-f5849c549607* |
+| **Test in Gemini**   | *https://g.co/gemini/share/6e9bdd0f8fce*  |
 
 ---
   
@@ -39,4 +41,4 @@ Finally, conclude by inviting the faculty member to revisit the best practices a
 
 ## Example interaction:
 
- ![Screenshot of Effective-Mentoring prompt example](/Educators/media/effective-mentoring.png)
+ ![Screenshot of Effective-Mentoring prompt example](./Media/effective-mentoring.png)
