@@ -4,10 +4,11 @@
 
 This prompt is used to describe the benefits of alumni contributions to the university. It describes a process for enhancing a university’s alumni via contribution. It focuses on understanding the university's needs, brainstorming impactful activities, and refining these ideas based on feedback. 
 
-| **Attribute**     | **Information**  |
-| ----------------- | ---------------- |
-| **Author**        | Vignesh S        |
-| **Target Models** | Chatgpt, Copilot |
+| **Attribute**       | **Information**                                                  |
+| ------------------- | ---------------------------------------------------------------- |
+| **Author**          | Vignesh S                                                        |
+| **Target Models**   | Chatgpt , Copilot                                                |
+| **Test in Chatgpt** | *https://chatgpt.com/share/8c50c755-4588-4d05-9cac-1afed59430d6* |
 
 ### *Prompt*
 
@@ -20,4 +21,4 @@ Wait for the response. After getting response brainstorm on various contribution
 
 ### *Expected Result*
 
-![Screenshot of the image.](./media/alumini-benifits.png)
+![Screenshot of the image.](../media/alumini-benifits.png)

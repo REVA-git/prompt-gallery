@@ -4,10 +4,11 @@
 
 This prompt is instructing a language model to act as an content creator which generates content to promote courses through social media platform. 
 
-| **Attribute**     | **Information**  |
-| ----------------- | ---------------- |
-| **Author**        | Vignesh S        |
-| **Target Models** | Chatgpt, Copilot |
+| **Attribute**       | **Information**                                                  |
+| ------------------- | ---------------------------------------------------------------- |
+| **Author**          | Vignesh S                                                        |
+| **Target Models**   | Chatgpt, Copilot                                                 |
+| **Test in Chatgpt** | *https://chatgpt.com/share/81f69086-fabb-40b3-95f6-db27e1a1e4f7* |
 
 ### *Prompt*
 
@@ -21,4 +22,4 @@ After providing the results, ask if there is anything they would like to add or 
 
  ### *Expected Result*
 
-![Screenshot of the image.](./media/social-media-campaign.png)
+![Screenshot of the image.](../media/social-media-campaign.png)
